@@ -3,16 +3,16 @@ import logging
 
 battle_bot_module = None
 websocket_uri = None
-username = None
-password = None
+username = KarenJohtoElite
+password = 7878778
 bot_mode = None
 team_name = None
 pokemon_mode = None
 run_count = None
 user_to_challenge = None
 gambit_exe_path = ""
-greeting_message = 'hf'
-battle_ending_message = 'gg'
+greeting_message = 'I am Karen of the Elite Four. How amusing. I love Dark-type Pokémon. I'm known for my overpowering tactics. Think you can take them? Just try to entertain me. Let's go.'
+battle_ending_message = 'Strong Pokémon. Weak Pokémon. That is only the selfish perception of people. Truly skilled Trainers should try to win with the Pokémon they love best. I like your style. You understand what's important.'
 
 use_relative_weights = False
 damage_calc_type = 'average'
